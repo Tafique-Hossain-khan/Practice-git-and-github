@@ -1,6 +1,7 @@
 coding fiels to explore
 
 Web devlopment
+Web3 devlopment
 App devlopment
 Cyber secutity
 Data science
